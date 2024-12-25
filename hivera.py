@@ -13,7 +13,7 @@ contribute_url = "https://api.hivera.org/v2/engine/contribute"
 powers_url = "https://api.hivera.org/users/powers"
 auth_url = "https://api.hivera.org/auth"
 metric_self_url = "https://api.hivera.org/metric/self"
-referal_auth = "https://api.hivera.org/referral?referral_code=15a5b135a&"  
+referal_auth = "https://api.hivera.org/referral?referral_code=90820c338&"  
 
 def exit_handler(sig, frame):
     print(f"\n{Fore.RED+Style.BRIGHT}Bot stopped !{Style.RESET_ALL}")
